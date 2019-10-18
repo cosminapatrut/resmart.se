@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/resmart.se/static/css/main.e8e9d277.chunk.css",
+    "main.js": "/resmart.se/static/js/main.a1e00e3b.chunk.js",
+    "main.js.map": "/resmart.se/static/js/main.a1e00e3b.chunk.js.map",
+    "runtime~main.js": "/resmart.se/static/js/runtime~main.57bce44a.js",
+    "runtime~main.js.map": "/resmart.se/static/js/runtime~main.57bce44a.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/resmart.se/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.c12eeadc.chunk.js": "/resmart.se/static/js/2.c12eeadc.chunk.js",
+    "static/js/2.c12eeadc.chunk.js.map": "/resmart.se/static/js/2.c12eeadc.chunk.js.map",
+    "index.html": "/resmart.se/index.html",
+    "precache-manifest.0fb935eef3a6e6a476b68c5a94c38499.js": "/resmart.se/precache-manifest.0fb935eef3a6e6a476b68c5a94c38499.js",
+    "service-worker.js": "/resmart.se/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/resmart.se/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.e8e9d277.chunk.css.map": "/resmart.se/static/css/main.e8e9d277.chunk.css.map",
+    "static/media/aboutSectionImg.jpg": "/resmart.se/static/media/aboutSectionImg.1a73c011.jpg",
+    "static/media/alex.jpg": "/resmart.se/static/media/alex.123b588e.jpg",
+    "static/media/cosmina.jpg": "/resmart.se/static/media/cosmina.27484b79.jpg",
+    "static/media/question1form1.jpg": "/resmart.se/static/media/question1form1.43eeb8d8.jpg",
+    "static/media/question1form2.jpg": "/resmart.se/static/media/question1form2.32ea16dd.jpg",
+    "static/media/question2form1.jpg": "/resmart.se/static/media/question2form1.59685dc7.jpg",
+    "static/media/question2form2.jpg": "/resmart.se/static/media/question2form2.bfec15c1.jpg",
+    "static/media/question3form1.jpg": "/resmart.se/static/media/question3form1.81c11d27.jpg",
+    "static/media/question3form2.jpg": "/resmart.se/static/media/question3form2.9f91a4c8.jpg",
+    "static/media/question4form1.jpg": "/resmart.se/static/media/question4form1.996ea3bb.jpg",
+    "static/media/question4form2.jpg": "/resmart.se/static/media/question4form2.4eeb49b3.jpg",
+    "static/media/question5form2.jpg": "/resmart.se/static/media/question5form2.3cbd4db3.jpg",
+    "static/media/resmart.jpg": "/resmart.se/static/media/resmart.52408783.jpg"
+  }
+}
