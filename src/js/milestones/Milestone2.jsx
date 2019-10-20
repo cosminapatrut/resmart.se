@@ -83,7 +83,8 @@ You can acces our first formular <a href="https://docs.google.com/forms/d/e/1FAI
 
       <h4>How these insights have affected our product</h4>
         <p className="w3-text-grey" >
-        TODO
+        From the form sent to the restaurant employees, it was found that the areas in which the management is carried out with difficulty are: order management (55.3%), personnel management (52.6%) and inventory management (44.7%). These results show that in about half of the restaurants there are management problems in these areas.
+Thus, we decided, based on these results, that our project must focus in particular on how these three problems can be reduced, and the result of our project will thus be a specialized IT solution on optimizing and facilitating the management of orders, personnel and stocks.
 </p><br />
 
 
