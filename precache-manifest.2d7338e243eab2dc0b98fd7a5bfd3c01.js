@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "37077e480a96f2eaac942c766287b634",
+    "revision": "f0023721f59bf7c10011c7cd24eb9cd0",
     "url": "/resmart.se/index.html"
   },
   {
-    "revision": "703d512c72cef846c422",
+    "revision": "1b751574d5bde5391480",
     "url": "/resmart.se/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "8f991e7628dc809e59b5",
-    "url": "/resmart.se/static/css/main.e8e9d277.chunk.css"
+    "revision": "8d3ebbd7a23e4cda304a",
+    "url": "/resmart.se/static/css/main.83cdafc1.chunk.css"
   },
   {
-    "revision": "703d512c72cef846c422",
-    "url": "/resmart.se/static/js/2.c12eeadc.chunk.js"
+    "revision": "1b751574d5bde5391480",
+    "url": "/resmart.se/static/js/2.7ff58de5.chunk.js"
   },
   {
-    "revision": "8f991e7628dc809e59b5",
-    "url": "/resmart.se/static/js/main.a1e00e3b.chunk.js"
+    "revision": "8d3ebbd7a23e4cda304a",
+    "url": "/resmart.se/static/js/main.06ba61d1.chunk.js"
   },
   {
-    "revision": "3444f70aad2e148ee06e",
-    "url": "/resmart.se/static/js/runtime~main.57bce44a.js"
+    "revision": "563b7ef272b3a4bf66de",
+    "url": "/resmart.se/static/js/runtime~main.da9350db.js"
   },
   {
     "revision": "1a73c0110c177489653c3e9af356a1ab",
