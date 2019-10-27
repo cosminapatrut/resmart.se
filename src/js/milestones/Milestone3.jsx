@@ -1,13 +1,4 @@
 import React, { Component } from 'react';
-import question1form1 from"../../res/question1form1.jpg"
-import question2form1 from"../../res/question2form1.jpg"
-import question3form1 from"../../res/question3form1.jpg"
-import question4form1 from"../../res/question4form1.jpg"
-import question1form2 from"../../res/question1form2.jpg"
-import question2form2 from"../../res/question2form2.jpg"
-import question3form2 from"../../res/question3form2.jpg"
-import question4form2 from"../../res/question4form2.jpg"
-import question5form2 from"../../res/question5form2.jpg"
 
 import '../../css/Milestones.css'
 
@@ -46,6 +37,10 @@ export default class Milestone3 extends Component {
             <div className="image-container" style={{display: 'flex'}}>
                 <img src={waiter} className="w3-round w3-image w3-opacity-min" width={700} height={770} style={{margin: '10px',float: 'center'}} />
             </div>
+            <div className="image-container" style={{display: 'flex'}}>
+            <button class="button" style={{margin: '10px',float:'center'}}><span><a href="https://cosminapatrut.github.io/resmart/index.html">Go to our Landing Page</a> </span></button>
+            </div>
+           
 
         </div>
     );
