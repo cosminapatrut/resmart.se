@@ -3,6 +3,7 @@ import {Router as BrowserRouter, Route, Link} from 'react-router-dom'
 
 import '../App.css';
 import App from '../App';
+import Milestone3 from './milestones/Milestone3';
 
 class Fiki extends Component {
 
@@ -22,6 +23,7 @@ class Fiki extends Component {
             <div className="app-container">
                     <App/>
             </div>
+            
         );
     }
 }

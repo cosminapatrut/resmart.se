@@ -13,3 +13,65 @@
     margin: auto;
     width: 100%;
   }
+
+  .transparent-layer:hover {
+    background-color: gray;
+}
+
+.enlargedImageContainer {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #333333;
+  opacity: 0.97;
+  z-index: 99999;
+}
+
+.enlargedImage {
+  max-width: 70%;
+  max-height: 70%;
+  position: relative;
+  margin: auto;
+  display: block;
+  transform: translateY(-50%);
+  top: 50%;
+}
+
+.closeEnlargedImage {
+  border: none;
+  outline: none;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  background-color: #333333;
+  color: white;
+  cursor: pointer;
+}
+
+.wireframes-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.wireframe-image-cointainer {
+  margin: auto;
+}
+
+.imageLabel {
+  width: 100%;
+  text-align: center;
+}
+
+.wireframe-image {
+    width: max-content;
+    height: 200px;
+    margin: auto;
+    display: block;
+    cursor: pointer;
+  }
+  
+  .transparent-layer {
+      background-color: blue;
+  }

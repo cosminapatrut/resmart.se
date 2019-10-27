@@ -3,6 +3,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import Milestone1 from "./milestones/Milestone1"
 import Milestone2 from "./milestones/Milestone2"
+import Milestone3 from "./milestones/Milestone3"
 
 import style from "../App.css"
 export default class Milestones extends Component {
@@ -19,7 +20,7 @@ export default class Milestones extends Component {
       },
       {
         tabTitle: "Milestone 3",
-        tabRenderer: () => (<div>Stay tuned! Coming soon</div>)
+        tabRenderer: () => (<Milestone3 />)
       },
       {
         tabTitle: "Milestone 4",
