@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/resmart.se/precache-manifest.44a1caf2a9cb43269324162bf513cbf3.js"
+  "/resmart.se/precache-manifest.95b0e1b8f2ca54892c2d6d0dc3e9d1f3.js"
 );
 
 self.addEventListener('message', (event) => {

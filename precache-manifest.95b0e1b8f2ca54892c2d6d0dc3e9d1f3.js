@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dae3ac6b80536c368b00485d344f2bd6",
+    "revision": "8dd76c2762145b01c1703d7d6a7a09e4",
     "url": "/resmart.se/index.html"
   },
   {
-    "revision": "cba6056ce08ef3e914f2",
+    "revision": "69e3bf26e4395e997d31",
     "url": "/resmart.se/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "8aed5e4fdacc793dd5ee",
-    "url": "/resmart.se/static/css/main.4d76189d.chunk.css"
+    "revision": "ceae0901781fd13a2cd4",
+    "url": "/resmart.se/static/css/main.0188ec19.chunk.css"
   },
   {
-    "revision": "cba6056ce08ef3e914f2",
-    "url": "/resmart.se/static/js/2.0794df78.chunk.js"
+    "revision": "69e3bf26e4395e997d31",
+    "url": "/resmart.se/static/js/2.48fda4ba.chunk.js"
   },
   {
-    "revision": "8aed5e4fdacc793dd5ee",
-    "url": "/resmart.se/static/js/main.12fec63a.chunk.js"
+    "revision": "ceae0901781fd13a2cd4",
+    "url": "/resmart.se/static/js/main.c2e7fec8.chunk.js"
   },
   {
     "revision": "563b7ef272b3a4bf66de",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "123b588e6682410875eee8b7a19ab5a4",
     "url": "/resmart.se/static/media/alex.123b588e.jpg"
+  },
+  {
+    "revision": "74832831d1d0fd6dc6a6bee41d02aedd",
+    "url": "/resmart.se/static/media/avatar.74832831.jpg"
   },
   {
     "revision": "27484b7946b9f5eb0d76d72fc4b37965",
