@@ -116,3 +116,52 @@
     opacity: 1;
     right: 0;
 }
+.responses-container {
+  margin-bottom: 25px;
+}
+
+.employee-1 {
+  color: #960000f5;
+  margin-right: 10px;
+}
+
+.employee-2 {
+  color: #db4cff;
+  margin-right: 10px;
+}
+
+.employee-3 {
+  color: #31d400;
+  margin-right: 10px;
+}
+
+.persona-container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.persona-picture {
+  border-radius: 50%;
+  background: whitesmoke;
+}
+
+.persona-details-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  text-align: left;
+}
+
+.persona-first-container {
+  background: whitesmoke;
+  padding: 10px;
+  border-radius: 10px;
+  width: 25%;
+}
+
+.persona-second-container {
+  background: whitesmoke;
+  padding: 10px;
+  border-radius: 10px;
+  width: 70%;
+}
