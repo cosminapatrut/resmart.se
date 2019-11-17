@@ -14,44 +14,44 @@ You can see below the questions as well as the answers provided by the people we
             <h3>Interviews</h3>
             <h4>What is your role in the restaurant?</h4>
                 <ul className="responses-container">
-                    <p><label className="employee-1"><b>Employee 1</b>:</label>I am the manager of the restaurant.</p>
-                    <p><label className="employee-2"><b>Employee 2</b>:</label>I am a waiter at the restaurant that I work.</p>
-                    <p><label className="employee-3"><b>Employee 3</b>:</label>I work as a waiter.</p>
+                    <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>I am the manager of the restaurant.</p>
+                    <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>I am a waiter at the restaurant that I work.</p>
+                    <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>I work as a waiter.</p>
                 </ul>
 
             <h4>What do you think that is the average time required to serve an order in your restaurant?</h4>
             <ul className="responses-container">
-                <p><label className="employee-1"><b>Employee 1</b>:</label>I think the average time needed to serve an order is about 40 minutes.</p>
-                <p><label className="employee-2"><b>Employee 2</b>:</label>The average time is somewhere around 35-45 minutes.</p>
-                <p><label className="employee-3"><b>Employee 3</b>:</label>From my experience the average time of delivering an order is 35 minutes.</p>
+                <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>I think the average time needed to serve an order is about 40 minutes.</p>
+                <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>The average time is somewhere around 35-45 minutes.</p>
+                <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>From my experience the average time of delivering an order is 35 minutes.</p>
             </ul>
 
             <h4>How are the stocks managed in your restaurant in your restaurant?</h4>
                 <ul className="responses-container">
-                    <p><label className="employee-1"><b>Employee 1</b>:</label>We are using record sheets for the quantity and expiring date of the goods.</p>
-                    <p><label className="employee-2"><b>Employee 2</b>:</label>The stocks management is done by the manager every day by filling out some sheets.</p>
-                    <p><label className="employee-3"><b>Employee 3</b>:</label>The stocks management is done on a daily basis on an Excel sheet.</p>
+                    <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>We are using record sheets for the quantity and expiring date of the goods.</p>
+                    <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>The stocks management is done by the manager every day by filling out some sheets.</p>
+                    <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>The stocks management is done on a daily basis on an Excel sheet.</p>
                 </ul>
                
             <h4>How do you manage the tables when the restaurant is busy?</h4>
             <ul className="responses-container">
-                <p><label className="employee-1"><b>Employee 1</b>:</label>Every waiter knows the number of each table but it gets pretty hard when we have to put together tables and to adjust the seats.</p>
-                <p><label className="employee-2"><b>Employee 2</b>:</label>In our restaurant each waiter has his own tables that he manage .</p>
-                <p><label className="employee-3"><b>Employee 3</b>:</label>In our restaurant we have a map of all the tables so everybody can find the table number.</p>
+                <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>Every waiter knows the number of each table but it gets pretty hard when we have to put together tables and to adjust the seats.</p>
+                <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>In our restaurant each waiter has his own tables that he manage .</p>
+                <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>In our restaurant we have a map of all the tables so everybody can find the table number.</p>
             </ul>
            
             <h4>What other segments of your restaurant activity you think can be improved?</h4>
                 <ul className="responses-container">
-                    <p><label className="employee-1"><b>Employee 1</b>:</label>I think we should improve our menu and make it more flexible to our clients wishes.</p>
-                    <p><label className="employee-2"><b>Employee 2</b>:</label>In our restaurant we should improve the way that we manage our clients when the restaurant in almost full.</p>
-                    <p><label className="employee-3"><b>Employee 3</b>:</label>We can improve our menu, so we can present clearly to our clients what we can offer them.</p>
+                    <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>I think we should improve our menu and make it more flexible to our clients wishes.</p>
+                    <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>In our restaurant we should improve the way that we manage our clients when the restaurant in almost full.</p>
+                    <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>We can improve our menu, so we can present clearly to our clients what we can offer them.</p>
                 </ul>
          
             <h4>Do you think that a software solution for orders/stocks/menu/tables management can be implemented in your restaurant? If yes, do you think it would be useful?</h4>
                 <ul className="responses-container">
-                    <p><label className="employee-1"><b>Employee 1</b>:</label>I definitely think it will be useful and the employees will get used to it quickly.</p>
-                    <p><label className="employee-2"><b>Employee 2</b>:</label>I think it can be implemented and of course it will ease our work.</p>
-                    <p><label className="employee-3"><b>Employee 3</b>:</label>If such a solution will be implemented I think that everyone from employees to customers will benefit from it.</p>
+                    <p className="w3-text-grey"><label className="employee-1"><b>Employee 1</b>:</label>I definitely think it will be useful and the employees will get used to it quickly.</p>
+                    <p className="w3-text-grey"><label className="employee-2"><b>Employee 2</b>:</label>I think it can be implemented and of course it will ease our work.</p>
+                    <p className="w3-text-grey"><label className="employee-3"><b>Employee 3</b>:</label>If such a solution will be implemented I think that everyone from employees to customers will benefit from it.</p>
                 </ul>
 
                 

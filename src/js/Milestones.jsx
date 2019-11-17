@@ -5,6 +5,7 @@ import Milestone1 from "./milestones/Milestone1"
 import Milestone2 from "./milestones/Milestone2"
 import Milestone3 from "./milestones/Milestone3"
 import Milestone4 from "./milestones/Milestone4"
+import Milestone5 from "./milestones/Milestone5"
 
 import style from "../App.css"
 export default class Milestones extends Component {
@@ -29,7 +30,7 @@ export default class Milestones extends Component {
       },
       {
         tabTitle: "Milestone 5",
-        tabRenderer: () => (<div>Stay tuned! Coming soon</div>)
+        tabRenderer: () => (<Milestone5 />)
       },
       {
         tabTitle: "Milestone 6",
