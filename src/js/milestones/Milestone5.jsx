@@ -3,6 +3,11 @@ import React, { Component } from "react";
 import "../../css/Milestones.css";
 import facebookLogo from "../../res/facebook.jpg";
 import linkedinLogo from "../../res/linkedin.jpg";
+import fb1 from "../../res/PostFbEgov.jpg"
+import fb2 from "../../res/PostFbMAster.jpg"
+import linkedinpost from "../../res/PostLinkedin.jpg"
+import analytics from "../../res/analytics.JPG"
+import hotjar from "../../res/hotjar.JPG"
 
 export default class Milestone5 extends Component {
   render() {
@@ -52,9 +57,16 @@ export default class Milestone5 extends Component {
           The second one is Start-Up Nation 2018 and it is created by a group of
           romanians from Cluj Napoca and it has 1,660 members.
         </p>
-        <div className="screenshots-container">
-          {/* <img style={{ height: "319px" }} src={FacebookPost1} alt="" /> */}
-          {/* <img style={{ height: "319px" }} src={FacebookPost2} alt="" /> */}
+        <div className="screenshots-container"
+          style={{
+            textAlign: "center",
+            marginTop: "30px",
+            marginBottom: "30px"
+            
+          }}
+        >
+          <img style={{ height: "500px",width: "400px", marginRight: "30px"}} src={fb1} alt="" />
+          <img style={{ height: "500px",width: "400px" }} src={fb2} alt="" />
         </div>
 
         <p className="w3-text-grey">
@@ -69,7 +81,7 @@ export default class Milestone5 extends Component {
             marginBottom: "30px"
           }}
         >
-          {/* <img style={{height: "300px"}} src={VisitorsChart} alt=""/> */}
+          <img style={{height: "500px"}} src={linkedinpost} alt=""/>
         </div>
 
         <h1
@@ -89,7 +101,7 @@ export default class Milestone5 extends Component {
             marginBottom: "30px"
           }}
         >
-          {/* <img style={{height: "300px"}} src={VisitorsChart} alt=""/> */}
+          <img style={{height: "300px"}} src={analytics} alt=""/>
         </div>
         <p className="w3-text-grey">
           According to Google Analytics we have 28 different users that visited
@@ -117,7 +129,7 @@ export default class Milestone5 extends Component {
             marginBottom: "30px"
           }}
         >
-          {/* <img style={{ height: "369px" }} src={HitMap} alt="" /> */}
+          <img style={{ height: "369px" }} src={hotjar} alt="" />
         </div>
 
         <p className="w3-text-grey">
