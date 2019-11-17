@@ -50,12 +50,11 @@ export default class Milestone5 extends Component {
           found two groups that matched our needs.
         </p>
         <p className="w3-text-grey">
-          The first one is one of the biggest startup related groups on
-          Facebook, having a number of 125,407 members.
+          The first one is one of the biggest master students related group on
+          Facebook.
         </p>
         <p className="w3-text-grey">
-          The second one is Start-Up Nation 2018 and it is created by a group of
-          romanians from Cluj Napoca and it has 1,660 members.
+          The second one contains all out colleagues.
         </p>
         <div className="screenshots-container"
           style={{
@@ -70,7 +69,7 @@ export default class Milestone5 extends Component {
         </div>
 
         <p className="w3-text-grey">
-          On <b>LinkedIn</b>, one of our colleague posted on his feed and he
+          On <b>LinkedIn</b>, one of us posted on his feed and he
           reached TODO views.
         </p>
 
@@ -136,8 +135,8 @@ export default class Milestone5 extends Component {
           A nice feature that Hotjar provide are heatmaps. Using this feature we
           can see where people spent most of their time on our page and where
           they clicked. Analyzing this data, we observed that 87 clicks were
-          recorded and the most of the clicks (22,99%) were on “Get Started”
-          button. This means that people are interested in our application and
+          recorded and the most of the clicks (22,99%) were on “About”
+          option. This means that people are interested in our application and
           they can’t wait to get started.
         </p>
 
