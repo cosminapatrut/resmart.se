@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dd76c2762145b01c1703d7d6a7a09e4",
+    "revision": "90c0c3c1af13aa313697daf8576e07ed",
     "url": "/resmart.se/index.html"
   },
   {
-    "revision": "69e3bf26e4395e997d31",
+    "revision": "768dd61e1853c99fd632",
     "url": "/resmart.se/static/css/2.5c17b9f1.chunk.css"
   },
   {
-    "revision": "ceae0901781fd13a2cd4",
-    "url": "/resmart.se/static/css/main.0188ec19.chunk.css"
+    "revision": "e87356ea290ca08a4aac",
+    "url": "/resmart.se/static/css/main.44157dec.chunk.css"
   },
   {
-    "revision": "69e3bf26e4395e997d31",
-    "url": "/resmart.se/static/js/2.48fda4ba.chunk.js"
+    "revision": "768dd61e1853c99fd632",
+    "url": "/resmart.se/static/js/2.c3a33e49.chunk.js"
   },
   {
-    "revision": "ceae0901781fd13a2cd4",
-    "url": "/resmart.se/static/js/main.c2e7fec8.chunk.js"
+    "revision": "e87356ea290ca08a4aac",
+    "url": "/resmart.se/static/js/main.9f72e509.chunk.js"
   },
   {
     "revision": "563b7ef272b3a4bf66de",
     "url": "/resmart.se/static/js/runtime~main.da9350db.js"
+  },
+  {
+    "revision": "abb1d0228685b01afbde437272fc13a2",
+    "url": "/resmart.se/static/media/PostLinkedin.abb1d022.jpg"
   },
   {
     "revision": "1a73c0110c177489653c3e9af356a1ab",
@@ -48,12 +52,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resmart.se/static/media/home.41f06c7e.png"
   },
   {
+    "revision": "50c9c000d653f626434aff5e13509881",
+    "url": "/resmart.se/static/media/linkedin.50c9c000.jpg"
+  },
+  {
     "revision": "d5b3a9a9eda9a5fd7c35c4a15acb98f2",
     "url": "/resmart.se/static/media/logInAdmin.d5b3a9a9.png"
   },
   {
     "revision": "e61883b7ba27a1817832674f7155aea8",
     "url": "/resmart.se/static/media/logInWaiter.e61883b7.png"
+  },
+  {
+    "revision": "0ca7219bfad2235c4f17e9d8baf2254f",
+    "url": "/resmart.se/static/media/postEgov.0ca7219b.JPG"
+  },
+  {
+    "revision": "6b36a83c36a66e80b6d12c524475d25b",
+    "url": "/resmart.se/static/media/postMaster.6b36a83c.JPG"
+  },
+  {
+    "revision": "ea37416ec751f581dad48ddb14736008",
+    "url": "/resmart.se/static/media/postanalytics.ea37416e.JPG"
+  },
+  {
+    "revision": "5ca64fd5ea45434566b69e5ef6689fa2",
+    "url": "/resmart.se/static/media/posthotjar.5ca64fd5.JPG"
   },
   {
     "revision": "43eeb8d8b20efcf716dca446c6b5b27f",
