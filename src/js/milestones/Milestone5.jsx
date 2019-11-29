@@ -61,11 +61,11 @@ export default class Milestone5 extends Component {
             textAlign: "center",
             marginTop: "30px",
             marginBottom: "30px"
-            
+
           }}
         >
-          <img style={{ height: "500px",width: "400px", marginRight: "30px"}} src={fb1} alt="" />
-          <img style={{ height: "500px",width: "400px" }} src={fb2} alt="" />
+          <img style={{ height: "500px", width: "400px", marginRight: "30px" }} src={fb1} alt="" />
+          <img style={{ height: "500px", width: "400px" }} src={fb2} alt="" />
         </div>
 
         <p className="w3-text-grey">
@@ -80,7 +80,7 @@ export default class Milestone5 extends Component {
             marginBottom: "30px"
           }}
         >
-          <img style={{height: "500px"}} src={linkedinpost} alt=""/>
+          <img style={{ height: "500px" }} src={linkedinpost} alt="" />
         </div>
 
         <h1
@@ -100,7 +100,7 @@ export default class Milestone5 extends Component {
             marginBottom: "30px"
           }}
         >
-          <img style={{height: "300px"}} src={analytics} alt=""/>
+          <img style={{ height: "300px" }} src={analytics} alt="" />
         </div>
         <p className="w3-text-grey">
           According to Google Analytics we have 31 different users that visited
